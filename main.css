@@ -1,0 +1,88 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+}
+
+menu {
+    background-color: rgb(190, 204, 225);
+    padding: 10px 10px 10px 10px;
+}
+ a {
+    text-decoration: none;
+    color: rgb(121, 117, 110);
+}
+.menu{
+    display: inline;
+    margin-left: 10%;
+
+}
+.menu-span {
+    color: black;
+    font-weight: 600;
+    margin-right: 5%;
+}
+hr {
+    height: 5px;
+    background-color: rgb(197, 204, 218);
+    border-radius: 10px;
+    border-color: rgb(255, 255, 255);
+}
+img {
+    border-radius: 15px;
+    margin: 10px;
+}
+
+form {
+    background-color: rgb(197, 204, 218);
+    border-radius: 20px;
+    padding: 15px;
+    margin: 20px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+label {
+    font-style: bold;
+    font-weight: 500;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10px;
+}
+input {
+    background-color: rgb(243, 245, 255);
+    border-radius: 15px;
+    border-color: rgb(98, 98, 98);
+    padding: 10px;
+    opacity: 0.7;
+    margin: 10px;
+}
+textarea {
+    border-radius: 10px;
+    border-color: royalblue;
+    padding: 20px;
+    margin-top: 5px;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 10px;
+    font-size: medium;
+}
+
+li {
+    margin: 10px;
+}
+
+.author {
+    font-style: italic;
+    font-size: smaller;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;;
+}
+
+a:hover {
+    color: rgb(100, 100, 225);
+    cursor: -webkit-grab;
+}
